@@ -1,0 +1,20 @@
+1. Provide a high-level description (ie, using minimal amount of technical
+   jargon) of the project in no more than 200 words.
+
+   This point of this project was to model and analyze percolation systems. We completed the code of certain classes that implemented the interface Percolation to
+   simulate percolation systems and provided methods that determine wether a given system/model will Percolate. We also provided methods to determine which and how many sites
+   are open in a given system.
+
+2. Did you receive help from anyone? List their names, status (classmate, 
+   CS210 grad, TA, other), and the nature of help received.
+
+   I did not receive any help from a person, rather I spent a significant amount of time on forums, lecture material and improving my mastery of the java language.
+
+3. List any other comments here. Feel free to provide any feedback on how
+   much you learned from doing the assignment, and whether you enjoyed
+   doing it.
+
+   I found the project and assignment to be quite challenging. That is not to say I did not enjoy completing them, on the contrary, I
+   really enjoyed it. However, I really struggled with importing the libraries I needed to verify the output of my code, I ran into many different
+   compilation errors and at the start I really struggled to understand what I had to do. Through these tasks, I significantly enforce my understanding
+   of java and basic data structures. I look forward to learning more and being challenged more. 
